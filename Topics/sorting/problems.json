@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T16:51:20.652Z",
+  "updatedAt": "2026-10-10T16:53:30.331Z",
   "problems": [
     {
       "frontendId": "1051",
@@ -43,7 +43,7 @@
           "filename": "2475-number-of-unequal-triplets-in-array.java",
           "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.java",
           "sha": "fefad5cf6f2dad1c79bdc8c9a750d0b642a07937",
-          "lastSyncedAt": "2026-10-10T16:48:57.286Z"
+          "lastSyncedAt": "2026-10-10T16:53:30.331Z"
         }
       ]
     },
