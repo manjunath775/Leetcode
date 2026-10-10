@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-10T16:48:57.286Z",
+  "updatedAt": "2026-10-10T16:49:46.626Z",
   "problems": [
+    {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "problemName": "1002-find-common-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+      "folderPath": "1002-find-common-characters/",
+      "readmePath": "1002-find-common-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1002-find-common-characters.java",
+          "path": "1002-find-common-characters/1002-find-common-characters.java",
+          "sha": "7f16856224adedfe17fe42db9f9739c0b083c704",
+          "lastSyncedAt": "2026-10-10T16:49:46.626Z"
+        }
+      ]
+    },
     {
       "frontendId": "2475",
       "title": "Number of Unequal Triplets in Array",
