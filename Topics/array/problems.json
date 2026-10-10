@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:46:57.680Z",
+  "updatedAt": "2026-10-10T16:47:21.949Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.py",
           "sha": "c47cdef4f912fa68e6efbcef45f709940f48e2b1",
           "lastSyncedAt": "2026-10-10T16:46:00.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3911",
+      "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
+      "slug": "k-th-smallest-remaining-even-integer-in-subarray-queries",
+      "problemName": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/",
+      "folderPath": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/",
+      "readmePath": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
+          "path": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
+          "sha": "aebbcfed7039cbfdac196e4bbf4b257c2bc72219",
+          "lastSyncedAt": "2026-10-10T16:47:21.949Z"
         }
       ]
     }
