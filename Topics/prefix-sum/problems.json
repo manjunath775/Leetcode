@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-10-10T16:51:09.407Z",
+  "problems": [
+    {
+      "frontendId": "1991",
+      "title": "Find the Middle Index in Array",
+      "slug": "find-the-middle-index-in-array",
+      "problemName": "1991-find-the-middle-index-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "folderPath": "1991-find-the-middle-index-in-array/",
+      "readmePath": "1991-find-the-middle-index-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1991-find-the-middle-index-in-array.java",
+          "path": "1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.java",
+          "sha": "f696b55507c01cdff625405fde09177f475f11db",
+          "lastSyncedAt": "2026-10-10T16:51:09.407Z"
+        }
+      ]
+    }
+  ]
+}
