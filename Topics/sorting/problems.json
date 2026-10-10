@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-10T16:48:57.286Z",
+  "problems": [
+    {
+      "frontendId": "2475",
+      "title": "Number of Unequal Triplets in Array",
+      "slug": "number-of-unequal-triplets-in-array",
+      "problemName": "2475-number-of-unequal-triplets-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/",
+      "folderPath": "2475-number-of-unequal-triplets-in-array/",
+      "readmePath": "2475-number-of-unequal-triplets-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2475-number-of-unequal-triplets-in-array.java",
+          "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.java",
+          "sha": "fefad5cf6f2dad1c79bdc8c9a750d0b642a07937",
+          "lastSyncedAt": "2026-10-10T16:48:57.286Z"
+        }
+      ]
+    }
+  ]
+}
