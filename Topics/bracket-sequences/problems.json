@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bracket-sequences",
+    "name": "Bracket Sequences",
+    "tagId": "122055"
+  },
+  "updatedAt": "2026-10-10T16:45:43.581Z",
+  "problems": [
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.c",
+          "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.c",
+          "sha": "404ab63b5053d194e210ca9c1009ee3abed46ad4",
+          "lastSyncedAt": "2026-10-10T16:45:43.581Z"
+        }
+      ]
+    }
+  ]
+}
