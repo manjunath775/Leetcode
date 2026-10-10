@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-10T16:46:57.680Z",
+  "updatedAt": "2026-10-10T16:47:21.949Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "0704-binary-search/0704-binary-search.java",
           "sha": "bd4b2229ab3065a9a3e66f1da250c0537c661426",
           "lastSyncedAt": "2026-10-10T16:46:57.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3911",
+      "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
+      "slug": "k-th-smallest-remaining-even-integer-in-subarray-queries",
+      "problemName": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/",
+      "folderPath": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/",
+      "readmePath": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
+          "path": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
+          "sha": "aebbcfed7039cbfdac196e4bbf4b257c2bc72219",
+          "lastSyncedAt": "2026-10-10T16:47:21.949Z"
         }
       ]
     }
