@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-10T16:47:34.341Z",
+  "updatedAt": "2026-10-10T16:50:49.412Z",
   "problems": [
+    {
+      "frontendId": "1534",
+      "title": "Count Good Triplets",
+      "slug": "count-good-triplets",
+      "problemName": "1534-count-good-triplets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets/",
+      "folderPath": "1534-count-good-triplets/",
+      "readmePath": "1534-count-good-triplets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1534-count-good-triplets.java",
+          "path": "1534-count-good-triplets/1534-count-good-triplets.java",
+          "sha": "004afddea7c61982bd6185dd5d1f7d6492c63315",
+          "lastSyncedAt": "2026-10-10T16:50:49.412Z"
+        }
+      ]
+    },
     {
       "frontendId": "3910",
       "title": "Count Connected Subgraphs with Even Node Sum",
