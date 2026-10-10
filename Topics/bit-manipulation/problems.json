@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-10-10T16:47:34.341Z",
+  "problems": [
+    {
+      "frontendId": "3910",
+      "title": "Count Connected Subgraphs with Even Node Sum",
+      "slug": "count-connected-subgraphs-with-even-node-sum",
+      "problemName": "3910-count-connected-subgraphs-with-even-node-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/",
+      "folderPath": "3910-count-connected-subgraphs-with-even-node-sum/",
+      "readmePath": "3910-count-connected-subgraphs-with-even-node-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3910-count-connected-subgraphs-with-even-node-sum.java",
+          "path": "3910-count-connected-subgraphs-with-even-node-sum/3910-count-connected-subgraphs-with-even-node-sum.java",
+          "sha": "c9a1fc6ee2c93b0be2c419c435fd93a66b633dbe",
+          "lastSyncedAt": "2026-10-10T16:47:34.341Z"
+        }
+      ]
+    }
+  ]
+}
