@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:54:21.729Z",
+  "updatedAt": "2026-10-10T16:54:28.951Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "0896-monotonic-array/0896-monotonic-array.java",
           "sha": "e26fe60d06a977ee26d7bfb23631cdd84f539050",
           "lastSyncedAt": "2026-10-10T16:54:21.729Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "0905-sort-array-by-parity/",
+      "readmePath": "0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0905-sort-array-by-parity.java",
+          "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.java",
+          "sha": "19cc2cc29b0a0884588ef4a27fb637f9e1779abe",
+          "lastSyncedAt": "2026-10-10T16:54:28.951Z"
         }
       ]
     },
