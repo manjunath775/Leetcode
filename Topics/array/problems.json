@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:46:18.204Z",
+  "updatedAt": "2026-10-10T16:46:57.680Z",
   "problems": [
     {
       "frontendId": "35",
@@ -24,6 +24,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.py",
           "sha": "975c064374f9c4d10ef715aba8f13e1d27364379",
           "lastSyncedAt": "2026-10-10T16:46:18.204Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "0704-binary-search/0704-binary-search.java",
+          "sha": "bd4b2229ab3065a9a3e66f1da250c0537c661426",
+          "lastSyncedAt": "2026-10-10T16:46:57.680Z"
         }
       ]
     },
