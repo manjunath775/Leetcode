@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "z-algorithm",
+    "name": "Z Algorithm",
+    "tagId": "86036"
+  },
+  "updatedAt": "2026-10-10T16:46:30.775Z",
+  "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "sha": "7f7ad30ec71202c516e26b09f076e51fcf590268",
+          "lastSyncedAt": "2026-10-10T16:46:30.775Z"
+        }
+      ]
+    }
+  ]
+}
