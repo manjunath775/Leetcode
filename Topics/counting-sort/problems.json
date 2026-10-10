@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting-sort",
+    "name": "Counting Sort",
+    "tagId": "61072"
+  },
+  "updatedAt": "2026-10-10T16:49:13.058Z",
+  "problems": [
+    {
+      "frontendId": "1051",
+      "title": "Height Checker",
+      "slug": "height-checker",
+      "problemName": "1051-height-checker",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
+      "folderPath": "1051-height-checker/",
+      "readmePath": "1051-height-checker/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1051-height-checker.java",
+          "path": "1051-height-checker/1051-height-checker.java",
+          "sha": "4fd9b108fa33a30495a654b2a79aebdee0e4bd1a",
+          "lastSyncedAt": "2026-10-10T16:49:13.058Z"
+        }
+      ]
+    }
+  ]
+}
