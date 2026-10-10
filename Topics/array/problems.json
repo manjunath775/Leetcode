@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:47:21.949Z",
+  "updatedAt": "2026-10-10T16:47:34.341Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.py",
           "sha": "c47cdef4f912fa68e6efbcef45f709940f48e2b1",
           "lastSyncedAt": "2026-10-10T16:46:00.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3910",
+      "title": "Count Connected Subgraphs with Even Node Sum",
+      "slug": "count-connected-subgraphs-with-even-node-sum",
+      "problemName": "3910-count-connected-subgraphs-with-even-node-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/",
+      "folderPath": "3910-count-connected-subgraphs-with-even-node-sum/",
+      "readmePath": "3910-count-connected-subgraphs-with-even-node-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3910-count-connected-subgraphs-with-even-node-sum.java",
+          "path": "3910-count-connected-subgraphs-with-even-node-sum/3910-count-connected-subgraphs-with-even-node-sum.java",
+          "sha": "c9a1fc6ee2c93b0be2c419c435fd93a66b633dbe",
+          "lastSyncedAt": "2026-10-10T16:47:34.341Z"
         }
       ]
     },
