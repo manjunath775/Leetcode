@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T16:49:13.058Z",
+  "updatedAt": "2026-10-10T16:51:20.652Z",
   "problems": [
     {
       "frontendId": "1051",
@@ -44,6 +44,26 @@
           "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.java",
           "sha": "fefad5cf6f2dad1c79bdc8c9a750d0b642a07937",
           "lastSyncedAt": "2026-10-10T16:48:57.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.java",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
+          "sha": "203215b9b8557aae80a6ac23350580ed7af4880f",
+          "lastSyncedAt": "2026-10-10T16:51:20.652Z"
         }
       ]
     }
