@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:53:56.922Z",
+  "updatedAt": "2026-10-10T16:54:04.643Z",
   "problems": [
     {
       "frontendId": "35",
@@ -163,7 +163,7 @@
           "filename": "1991-find-the-middle-index-in-array.java",
           "path": "1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.java",
           "sha": "f696b55507c01cdff625405fde09177f475f11db",
-          "lastSyncedAt": "2026-10-10T16:51:09.407Z"
+          "lastSyncedAt": "2026-10-10T16:54:04.643Z"
         }
       ]
     },
