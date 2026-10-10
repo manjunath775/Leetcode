@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T16:48:08.966Z",
+  "updatedAt": "2026-10-10T16:48:26.366Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "0704-binary-search/0704-binary-search.java",
           "sha": "bd4b2229ab3065a9a3e66f1da250c0537c661426",
           "lastSyncedAt": "2026-10-10T16:46:57.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2319",
+      "title": "Check if Matrix Is X-Matrix",
+      "slug": "check-if-matrix-is-x-matrix",
+      "problemName": "2319-check-if-matrix-is-x-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/",
+      "folderPath": "2319-check-if-matrix-is-x-matrix/",
+      "readmePath": "2319-check-if-matrix-is-x-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2319-check-if-matrix-is-x-matrix.java",
+          "path": "2319-check-if-matrix-is-x-matrix/2319-check-if-matrix-is-x-matrix.java",
+          "sha": "46b04eb9c268830e15c561bd63f06e369608f412",
+          "lastSyncedAt": "2026-10-10T16:48:26.366Z"
         }
       ]
     },
