@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T16:46:00.195Z",
+  "updatedAt": "2026-10-10T16:48:17.357Z",
   "problems": [
     {
       "frontendId": "3512",
@@ -24,6 +24,26 @@
           "path": "3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.py",
           "sha": "c47cdef4f912fa68e6efbcef45f709940f48e2b1",
           "lastSyncedAt": "2026-10-10T16:46:00.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3908",
+      "title": "Valid Digit Number",
+      "slug": "valid-digit-number",
+      "problemName": "3908-valid-digit-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-digit-number/",
+      "folderPath": "3908-valid-digit-number/",
+      "readmePath": "3908-valid-digit-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3908-valid-digit-number.java",
+          "path": "3908-valid-digit-number/3908-valid-digit-number.java",
+          "sha": "11a8bb6aaebcc2d9c6646176bc7803a1bce96034",
+          "lastSyncedAt": "2026-10-10T16:48:17.357Z"
         }
       ]
     }
