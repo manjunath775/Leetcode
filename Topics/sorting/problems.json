@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T16:54:11.256Z",
+  "updatedAt": "2026-10-10T16:54:28.951Z",
   "problems": [
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "0905-sort-array-by-parity/",
+      "readmePath": "0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0905-sort-array-by-parity.java",
+          "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.java",
+          "sha": "19cc2cc29b0a0884588ef4a27fb637f9e1779abe",
+          "lastSyncedAt": "2026-10-10T16:54:28.951Z"
+        }
+      ]
+    },
     {
       "frontendId": "1051",
       "title": "Height Checker",
