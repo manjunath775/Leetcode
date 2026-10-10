@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-10T16:52:35.888Z",
+  "updatedAt": "2026-10-10T16:52:41.688Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,7 +83,7 @@
           "filename": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
           "path": "3911-k-th-smallest-remaining-even-integer-in-subarray-queries/3911-k-th-smallest-remaining-even-integer-in-subarray-queries.java",
           "sha": "aebbcfed7039cbfdac196e4bbf4b257c2bc72219",
-          "lastSyncedAt": "2026-10-10T16:47:21.949Z"
+          "lastSyncedAt": "2026-10-10T16:52:41.688Z"
         }
       ]
     }
