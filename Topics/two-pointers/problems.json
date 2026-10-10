@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-10T16:46:30.775Z",
+  "updatedAt": "2026-10-10T16:51:20.652Z",
   "problems": [
     {
       "frontendId": "28",
@@ -24,6 +24,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "7f7ad30ec71202c516e26b09f076e51fcf590268",
           "lastSyncedAt": "2026-10-10T16:46:30.775Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.java",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
+          "sha": "203215b9b8557aae80a6ac23350580ed7af4880f",
+          "lastSyncedAt": "2026-10-10T16:51:20.652Z"
         }
       ]
     }
